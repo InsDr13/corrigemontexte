@@ -21,7 +21,10 @@
       href="%PUBLIC_URL%/blue.png"
     />
     <!-- Fonts -->
-    
+    <link
+      href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700"
+      rel="stylesheet"
+    />
 	<script src="https://accounts.google.com/gsi/client" async defer></script>
     <title>Corrige mon texte</title>
 
