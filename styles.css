@@ -1,0 +1,21 @@
+.button {
+  background-color: #gray; /* Background color */
+  border: none; /* No border */
+  color: white; /* Text color */
+  padding: 10px 20px; /* Padding inside the button */
+  text-align: center; /* Center the text inside */
+  text-decoration: none; /* No underline on the text */
+  display: inline-block; /* Allow multiple buttons in a line */
+  font-size: 16px; /* Text size */
+  margin: 4px 2px; /* Margin around the buttons */
+  cursor: pointer; /* Pointer cursor on hover */
+  border-radius: 2px; /* Rounded corners */
+}
+
+.button:hover {
+  background-color: #darkgray; /* Darker background on hover */
+}
+
+Input {
+  color: black; /* Replace 'gray' with your desired color */
+}
