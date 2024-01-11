@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.114abc69.css",
-    "main.js": "./static/js/main.00f85e85.js",
+    "main.css": "./static/css/main.575df8cd.css",
+    "main.js": "./static/js/main.8058d123.js",
     "static/media/fa-solid-900.svg": "./static/media/fa-solid-900.13de59f1a36b6cb4bca0.svg",
     "static/media/fa-brands-400.svg": "./static/media/fa-brands-400.216edb96b562c79adc09.svg",
     "static/media/c4.PNG": "./static/media/c4.ecb99ecc0496b5cc6047.PNG",
@@ -9,7 +9,6 @@
     "static/media/c1.png": "./static/media/c1.0325c21fbc0a3f813bcf.png",
     "static/media/c3.PNG": "./static/media/c3.6b6a7471d6d5a2e7a0f7.PNG",
     "static/media/c2.PNG": "./static/media/c2.37be21325eb6f89c215d.PNG",
-    "static/media/corrige.jpg": "./static/media/corrige.ad61787c23816b645302.jpg",
     "static/media/CorrigeML.png": "./static/media/CorrigeML.1614a420daeccd27456d.png",
     "static/media/fa-solid-900.eot": "./static/media/fa-solid-900.efbd5d20e407bbf85f2b.eot",
     "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.07c3313b24f7b1ca85ee.ttf",
@@ -39,7 +38,7 @@
     "static/media/facebook.svg": "./static/media/facebook.3d3f0172d6eca8b27feae4ab87e90bd8.svg"
   },
   "entrypoints": [
-    "static/css/main.114abc69.css",
-    "static/js/main.00f85e85.js"
+    "static/css/main.575df8cd.css",
+    "static/js/main.8058d123.js"
   ]
 }
