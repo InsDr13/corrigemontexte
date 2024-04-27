@@ -1,7 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.1f385012.css",
-    "main.js": "./static/js/main.07dd64e5.js",
+    "main.css": "./static/css/main.04c23597.css",
+    "main.js": "./static/js/main.10d096c7.js",
+    "static/css/951.53841f8d.chunk.css": "./static/css/951.53841f8d.chunk.css",
+    "static/js/951.7a22574d.chunk.js": "./static/js/951.7a22574d.chunk.js",
+    "static/css/852.53841f8d.chunk.css": "./static/css/852.53841f8d.chunk.css",
+    "static/js/852.afce6462.chunk.js": "./static/js/852.afce6462.chunk.js",
+    "static/js/593.72e79d41.chunk.js": "./static/js/593.72e79d41.chunk.js",
+    "static/js/321.fb10e918.chunk.js": "./static/js/321.fb10e918.chunk.js",
+    "static/js/177.e1632978.chunk.js": "./static/js/177.e1632978.chunk.js",
+    "static/css/488.8515f35c.chunk.css": "./static/css/488.8515f35c.chunk.css",
+    "static/js/488.7c2e310c.chunk.js": "./static/js/488.7c2e310c.chunk.js",
+    "static/js/137.c61e0075.chunk.js": "./static/js/137.c61e0075.chunk.js",
     "static/media/fa-solid-900.svg": "./static/media/fa-solid-900.13de59f1a36b6cb4bca0.svg",
     "static/media/fa-brands-400.svg": "./static/media/fa-brands-400.216edb96b562c79adc09.svg",
     "static/media/c4.PNG": "./static/media/c4.ecb99ecc0496b5cc6047.PNG",
@@ -17,10 +27,10 @@
     "static/media/nucleo-icons.svg": "./static/media/nucleo-icons.01ebecaf50461162d4bc.svg",
     "static/media/team-4-800x800.jpg": "./static/media/team-4-800x800.99c612eb60728a5aeeb0.jpg",
     "static/media/fa-solid-900.woff": "./static/media/fa-solid-900.c6ec080084769a6d8a34.woff",
-    "static/media/CorrigeMLk.jpg": "./static/media/CorrigeMLk.80b470b6738512e0eb90.jpg",
     "static/media/fa-brands-400.woff": "./static/media/fa-brands-400.329a95a9172fdb2cccb4.woff",
     "static/media/fa-solid-900.woff2": "./static/media/fa-solid-900.ada6e6df937f7e5e8b79.woff2",
     "static/media/fa-brands-400.woff2": "./static/media/fa-brands-400.c1210e5ebe4344da5083.woff2",
+    "static/media/CorrigeMLk.webp": "./static/media/CorrigeMLk.e2690ae01c211b08ef00.webp",
     "static/media/oo.png": "./static/media/oo.9c7b963a9eaedb6ec2b6.png",
     "static/media/fa-regular-400.eot": "./static/media/fa-regular-400.4079ae2d2a15d0689568.eot",
     "static/media/fa-regular-400.ttf": "./static/media/fa-regular-400.1017bce89c72f95bcf8e.ttf",
@@ -37,7 +47,7 @@
     "static/media/facebook.svg": "./static/media/facebook.3d3f0172d6eca8b27feae4ab87e90bd8.svg"
   },
   "entrypoints": [
-    "static/css/main.1f385012.css",
-    "static/js/main.07dd64e5.js"
+    "static/css/main.04c23597.css",
+    "static/js/main.10d096c7.js"
   ]
 }
