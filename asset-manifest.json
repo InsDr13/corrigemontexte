@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "./static/css/main.965fc0a0.css",
-    "main.js": "./static/js/main.400129ac.js",
-    "static/css/496.53841f8d.chunk.css": "./static/css/496.53841f8d.chunk.css",
-    "static/css/852.53841f8d.chunk.css": "./static/css/852.53841f8d.chunk.css",
+    "main.js": "./static/js/main.4f8975a7.js",
+    "static/css/496.ef5ca1a9.chunk.css": "./static/css/496.ef5ca1a9.chunk.css",
+    "static/css/852.ef5ca1a9.chunk.css": "./static/css/852.ef5ca1a9.chunk.css",
     "static/js/852.7306a208.chunk.js": "./static/js/852.7306a208.chunk.js",
     "static/css/829.8515f35c.chunk.css": "./static/css/829.8515f35c.chunk.css",
     "static/js/829.8e6178cc.chunk.js": "./static/js/829.8e6178cc.chunk.js",
-    "static/js/953.093b608a.chunk.js": "./static/js/953.093b608a.chunk.js",
+    "static/js/953.c6f514c3.chunk.js": "./static/js/953.c6f514c3.chunk.js",
     "static/media/fa-solid-900.svg": "./static/media/fa-solid-900.13de59f1a36b6cb4bca0.svg",
     "static/media/fa-brands-400.svg": "./static/media/fa-brands-400.216edb96b562c79adc09.svg",
     "static/media/c4.PNG": "./static/media/c4.ecb99ecc0496b5cc6047.PNG",
@@ -49,6 +49,6 @@
   },
   "entrypoints": [
     "static/css/main.965fc0a0.css",
-    "static/js/main.400129ac.js"
+    "static/js/main.4f8975a7.js"
   ]
 }
